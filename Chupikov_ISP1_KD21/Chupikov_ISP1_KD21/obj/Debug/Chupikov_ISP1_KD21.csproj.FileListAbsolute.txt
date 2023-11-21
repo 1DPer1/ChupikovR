@@ -1,0 +1,29 @@
+C:\Users\student\source\repos\Chupikov_ISP1_KD21\Chupikov_ISP1_KD21\bin\Debug\Chupikov_ISP1_KD21.exe.config
+C:\Users\student\source\repos\Chupikov_ISP1_KD21\Chupikov_ISP1_KD21\bin\Debug\Chupikov_ISP1_KD21.exe
+C:\Users\student\source\repos\Chupikov_ISP1_KD21\Chupikov_ISP1_KD21\bin\Debug\Chupikov_ISP1_KD21.pdb
+C:\Users\student\source\repos\Chupikov_ISP1_KD21\Chupikov_ISP1_KD21\obj\Debug\Chupikov_ISP1_KD21.csproj.AssemblyReference.cache
+C:\Users\student\source\repos\Chupikov_ISP1_KD21\Chupikov_ISP1_KD21\obj\Debug\Chupikov_ISP1_KD21.csproj.SuggestedBindingRedirects.cache
+C:\Users\student\source\repos\Chupikov_ISP1_KD21\Chupikov_ISP1_KD21\obj\Debug\Chupikov_ISP1_KD21.Form1.resources
+C:\Users\student\source\repos\Chupikov_ISP1_KD21\Chupikov_ISP1_KD21\obj\Debug\Chupikov_ISP1_KD21.Properties.Resources.resources
+C:\Users\student\source\repos\Chupikov_ISP1_KD21\Chupikov_ISP1_KD21\obj\Debug\Chupikov_ISP1_KD21.csproj.GenerateResource.cache
+C:\Users\student\source\repos\Chupikov_ISP1_KD21\Chupikov_ISP1_KD21\obj\Debug\Chupikov_ISP1_KD21.csproj.CoreCompileInputs.cache
+C:\Users\student\source\repos\Chupikov_ISP1_KD21\Chupikov_ISP1_KD21\obj\Debug\Chupikov_ISP1_KD21.exe
+C:\Users\student\source\repos\Chupikov_ISP1_KD21\Chupikov_ISP1_KD21\obj\Debug\Chupikov_ISP1_KD21.pdb
+X:\Восточно-кругликовская\406\1 курс\ИСП-1 Чупиков Ростислав\3 курс\Chupikov_ISP1_KD21\Chupikov_ISP1_KD21\obj\Debug\Chupikov_ISP1_KD21.csproj.AssemblyReference.cache
+X:\Восточно-кругликовская\406\1 курс\ИСП-1 Чупиков Ростислав\3 курс\Chupikov_ISP1_KD21\Chupikov_ISP1_KD21\obj\Debug\Chupikov_ISP1_KD21.csproj.SuggestedBindingRedirects.cache
+X:\Восточно-кругликовская\406\1 курс\ИСП-1 Чупиков Ростислав\3 курс\Chupikov_ISP1_KD21\Chupikov_ISP1_KD21\obj\Debug\Chupikov_ISP1_KD21.Form1.resources
+X:\Восточно-кругликовская\406\1 курс\ИСП-1 Чупиков Ростислав\3 курс\Chupikov_ISP1_KD21\Chupikov_ISP1_KD21\obj\Debug\Chupikov_ISP1_KD21.Properties.Resources.resources
+X:\Восточно-кругликовская\406\1 курс\ИСП-1 Чупиков Ростислав\3 курс\Chupikov_ISP1_KD21\Chupikov_ISP1_KD21\obj\Debug\Chupikov_ISP1_KD21.csproj.GenerateResource.cache
+X:\Восточно-кругликовская\406\1 курс\ИСП-1 Чупиков Ростислав\3 курс\Chupikov_ISP1_KD21\Chupikov_ISP1_KD21\obj\Debug\Chupikov_ISP1_KD21.csproj.CoreCompileInputs.cache
+X:\Восточно-кругликовская\406\1 курс\ИСП-1 Чупиков Ростислав\3 курс\Chupikov_ISP1_KD21\Chupikov_ISP1_KD21\obj\Debug\Chupikov_ISP1_KD21.pdb
+C:\Users\student\Desktop\Chupikov_ISP1_KD21\Chupikov_ISP1_KD21\bin\Debug\Chupikov_ISP1_KD21.exe.config
+C:\Users\student\Desktop\Chupikov_ISP1_KD21\Chupikov_ISP1_KD21\bin\Debug\Chupikov_ISP1_KD21.exe
+C:\Users\student\Desktop\Chupikov_ISP1_KD21\Chupikov_ISP1_KD21\bin\Debug\Chupikov_ISP1_KD21.pdb
+C:\Users\student\Desktop\Chupikov_ISP1_KD21\Chupikov_ISP1_KD21\obj\Debug\Chupikov_ISP1_KD21.csproj.AssemblyReference.cache
+C:\Users\student\Desktop\Chupikov_ISP1_KD21\Chupikov_ISP1_KD21\obj\Debug\Chupikov_ISP1_KD21.csproj.SuggestedBindingRedirects.cache
+C:\Users\student\Desktop\Chupikov_ISP1_KD21\Chupikov_ISP1_KD21\obj\Debug\Chupikov_ISP1_KD21.Form1.resources
+C:\Users\student\Desktop\Chupikov_ISP1_KD21\Chupikov_ISP1_KD21\obj\Debug\Chupikov_ISP1_KD21.Properties.Resources.resources
+C:\Users\student\Desktop\Chupikov_ISP1_KD21\Chupikov_ISP1_KD21\obj\Debug\Chupikov_ISP1_KD21.csproj.GenerateResource.cache
+C:\Users\student\Desktop\Chupikov_ISP1_KD21\Chupikov_ISP1_KD21\obj\Debug\Chupikov_ISP1_KD21.csproj.CoreCompileInputs.cache
+C:\Users\student\Desktop\Chupikov_ISP1_KD21\Chupikov_ISP1_KD21\obj\Debug\Chupikov_ISP1_KD21.exe
+C:\Users\student\Desktop\Chupikov_ISP1_KD21\Chupikov_ISP1_KD21\obj\Debug\Chupikov_ISP1_KD21.pdb
